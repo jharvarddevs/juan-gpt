@@ -93,7 +93,7 @@ export default function Home() {
   };
 
   return (
-    <main className="flex flex-col h-screen bg-gray-950 text-gray-100 font-sans">
+    <main className="flex flex-col h-[100dvh] bg-gray-950 text-gray-100 font-sans">
       
       <header className="flex-none p-4 border-b border-gray-800 bg-gray-900 shadow-md flex items-center justify-between">
         <div className="flex items-center gap-3">
